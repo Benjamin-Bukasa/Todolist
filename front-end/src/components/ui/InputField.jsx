@@ -5,7 +5,7 @@ const InputField = () => {
   return (
     <>
         <div>
-            <input type="text" placeholder={` Recherche`} className='outline-none'/>
+            <input type="text" placeholder={`Recherche`} className='outline-none'/>
         </div>
     </>
   );
